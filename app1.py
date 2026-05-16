@@ -6,7 +6,6 @@ import matplotlib.dates as mdates
 import seaborn as sns
 from matplotlib.patches import Patch
 import warnings
-warnings.filterwarnings('ignore')
 
 # ─────────────────────────────────────────
 # CONFIG PAGE
